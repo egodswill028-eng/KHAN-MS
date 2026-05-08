@@ -1,0 +1,7 @@
+echo "# KHAN-MS" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/egodswill028-eng/KHAN-MS.git
+git push -u origin main
